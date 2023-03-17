@@ -1,0 +1,22 @@
+{
+  "name": "npmsivapthi",
+  "version": "1.0.0",
+  "description": "DevOps-FS23",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivapthi/DOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivapthi/DOP/issues"
+  },
+  "homepage": "https://github.com/sivapthi/DOP#readme",
+  "dependencies": {
+    "chart.js": "^2.9.3"
+  }
+}
